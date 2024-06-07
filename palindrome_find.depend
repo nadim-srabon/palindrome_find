@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1717757522 source:e:\github\palindrome_find\main.c
+	<stdio.h>
+	<stdlib.h>
+
